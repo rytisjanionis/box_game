@@ -1,0 +1,15 @@
+{
+    "name": "zaidimas",
+    "version": "0.0.1",
+    "description": "my first socket.io app",
+    "scripts": {
+        "start": "node -r esm .",
+        "debug": "node -r esm --nolazy --inspect-brk=3001 ."
+    },
+    "dependencies": {
+        "esm": "^3.2.25",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "socket.io": "^2.3.0"
+    }
+}

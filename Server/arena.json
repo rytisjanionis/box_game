@@ -1,0 +1,150 @@
+{
+    "players": 
+       [
+        {
+            "position": {
+                "x": 40,
+                "y": 40
+            },
+            "color": "blue",
+            "id": null,
+            "side": "top"
+        },
+        {
+            "position": {
+                "x": 760,
+                "y": 760
+            },
+            "color": "yellow",
+            "id": null,
+            "side": "bottom"
+        }
+       ],
+    "endZones":[
+        {
+            "position":{
+                "x":400,
+                "y":30
+            },
+            "color": "yellow",
+            "side": "top",
+            "size":{
+                "x":250,
+                "y":50
+            }
+        },
+        {
+            "position":{
+                "x":400,
+                "y":770
+            },
+            "color": "blue",
+            "side": "bottom",
+            "size":{
+                "x":250,
+                "y":50
+            }
+        }
+    ],
+    "boxes":
+    [
+        {
+            "position": {
+                "x": 314,
+                "y": 225
+            },
+            "color": "red",
+            "id": 1
+        },
+        {
+            "position": {
+                "x": 656,
+                "y": 179
+            },
+            "color": "red",
+            "id": 2
+        },
+        {
+            "position": {
+                "x": 302,
+                "y": 421
+            },
+            "color": "red",
+            "id": 3
+        },
+        {
+            "position": {
+                "x": 101,
+                "y": 434
+            },
+            "color": "red",
+            "id": 4
+        },
+        {
+            "position": {
+                "x": 582,
+                "y": 208
+            },
+            "color": "red",
+            "id": 5
+        },
+        {
+            "position": {
+                "x": 388,
+                "y": 544
+            },
+            "color": "red",
+            "id": 6
+        },
+        {
+            "position": {
+                "x": 146,
+                "y": 220
+            },
+            "color": "green",
+            "id": 7
+        },
+        {
+            "position": {
+                "x": 241,
+                "y": 236
+            },
+            "color": "green",
+            "id": 8
+        },
+        {
+            "position": {
+                "x": 778,
+                "y": 262
+            },
+            "color": "green",
+            "id": 9
+        },
+        {
+            "position": {
+                "x": 507,
+                "y": 124
+            },
+            "color": "green",
+            "id": 10
+        },
+        {
+            "position": {
+                "x": 283,
+                "y": 290
+            },
+            "color": "green",
+            "id": 11
+        },
+        {
+            "position": {
+                "x": 658,
+                "y": 435
+            },
+            "color": "green",
+            "id": 12
+        }
+    ]
+  
+    
+  }
